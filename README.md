@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+2019/07/02
 
 ### Project Title
-Replace the Project Title
+udacity project 
 
 ### Description
-Describe what your project is about and what it does
+To analyse a data of bikeshare company
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Kazuki Matsuo
 
